@@ -1,0 +1,28 @@
+body{
+
+background-color: #c990f570;
+font-family: "Courier New";
+text-align: center;
+
+}
+
+ul {
+text-align: left;
+font-size: 20px;
+
+}
+
+ol {
+text-align: left;
+font-size: 15px;
+}
+
+a{
+
+color: #0a0903;
+}
+
+a:hover{
+
+color: #ffee31;
+}
